@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chokidar": "^2.0.3",
     "lit-element": "^2.4.0"
   },
   "devDependencies": {
